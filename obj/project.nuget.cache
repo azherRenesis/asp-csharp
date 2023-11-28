@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "60AERRj5aIAnhC1gqRFNYA6IyOJZSl3bc/UlXxGqOi7KKfmcKPprjcU1awe0TzXDcAZBflYFZ3v8jJ8JpvttcA==",
+  "dgSpecHash": "GKgHZcv6ABHG1UMFPrd9hVnGC1UeM8RVwzy75shIYUzsjFCVjFbZJc4rj2h3e2pD99Jxkt0wMAZb4V9jPUMZbg==",
   "success": true,
   "projectFilePath": "/Users/azhersaeed/Documents/YourProjectName/YourProjectName.csproj",
   "expectedPackageFiles": [
+    "/Users/azhersaeed/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
     "/Users/azhersaeed/.nuget/packages/fluentvalidation/11.8.1/fluentvalidation.11.8.1.nupkg.sha512",
     "/Users/azhersaeed/.nuget/packages/microsoft.aspnetcore.authentication.jwtbearer/8.0.0/microsoft.aspnetcore.authentication.jwtbearer.8.0.0.nupkg.sha512",
+    "/Users/azhersaeed/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/Users/azhersaeed/.nuget/packages/microsoft.identitymodel.abstractions/7.0.3/microsoft.identitymodel.abstractions.7.0.3.nupkg.sha512",
     "/Users/azhersaeed/.nuget/packages/microsoft.identitymodel.jsonwebtokens/7.0.3/microsoft.identitymodel.jsonwebtokens.7.0.3.nupkg.sha512",
     "/Users/azhersaeed/.nuget/packages/microsoft.identitymodel.logging/7.0.3/microsoft.identitymodel.logging.7.0.3.nupkg.sha512",
