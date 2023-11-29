@@ -36,3 +36,4 @@
 /Users/azhersaeed/Documents/YourProjectName/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
 /Users/azhersaeed/Documents/YourProjectName/obj/Debug/net8.0/YourProjectName.sourcelink.json
 /Users/azhersaeed/Documents/YourProjectName/bin/Debug/net8.0/AutoMapper.dll
+/Users/azhersaeed/Documents/YourProjectName/bin/Debug/net8.0/Newtonsoft.Json.dll
