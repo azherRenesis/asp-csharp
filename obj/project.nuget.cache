@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "f/DKg/xbHM1K2IF8gI7oMhTAr9xbnqmC1gTbibVcg/9RnDAR+0M1nKi9Wp8uzq4bBMeIGD139HyF8nFPJ+hutQ==",
+  "dgSpecHash": "zjksA0soVH31ztthSjeR0vTOH/Ci1dPQMle45e8W9StOhDdqGLNOpFLi0VCCl4ESios0NSZt5GtVsKeBiG0W3g==",
   "success": true,
   "projectFilePath": "/Users/azhersaeed/Documents/YourProjectName/YourProjectName.csproj",
   "expectedPackageFiles": [
@@ -20,6 +20,7 @@
     "/Users/azhersaeed/.nuget/packages/microsoft.extensions.caching.abstractions/8.0.0/microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
     "/Users/azhersaeed/.nuget/packages/microsoft.extensions.caching.memory/8.0.0/microsoft.extensions.caching.memory.8.0.0.nupkg.sha512",
     "/Users/azhersaeed/.nuget/packages/microsoft.extensions.caching.redis/2.2.0/microsoft.extensions.caching.redis.2.2.0.nupkg.sha512",
+    "/Users/azhersaeed/.nuget/packages/microsoft.extensions.configuration/8.0.0/microsoft.extensions.configuration.8.0.0.nupkg.sha512",
     "/Users/azhersaeed/.nuget/packages/microsoft.extensions.configuration.abstractions/8.0.0/microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
     "/Users/azhersaeed/.nuget/packages/microsoft.extensions.dependencyinjection/8.0.0/microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
     "/Users/azhersaeed/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
