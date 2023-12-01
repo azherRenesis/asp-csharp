@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "iy38FDXWW5eH2YbEmOzjQ4TDQ4Vfi2AAXMWmDAxbNs+kevp0FEsAGDlObTvrKURegh/VZr+QFqnVeaxIk48ANA==",
+  "dgSpecHash": "MRRZ4GjYHT5Ih02IhlOfwxjyPDwKaLInZs7e+NvdyNBNtOmElTmuLOhoUgTeLty+3tjGAzNoCDktlSXhCpnl0A==",
   "success": true,
   "projectFilePath": "/Users/azhersaeed/Documents/YourProjectName/YourProjectName.csproj",
   "expectedPackageFiles": [
     "/Users/azhersaeed/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
     "/Users/azhersaeed/.nuget/packages/azure.core/1.25.0/azure.core.1.25.0.nupkg.sha512",
     "/Users/azhersaeed/.nuget/packages/azure.identity/1.7.0/azure.identity.1.7.0.nupkg.sha512",
+    "/Users/azhersaeed/.nuget/packages/fluentvalidation/11.8.1/fluentvalidation.11.8.1.nupkg.sha512",
     "/Users/azhersaeed/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.1/microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "/Users/azhersaeed/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/Users/azhersaeed/.nuget/packages/microsoft.data.sqlclient/5.1.1/microsoft.data.sqlclient.5.1.1.nupkg.sha512",
