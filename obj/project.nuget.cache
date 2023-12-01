@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "jjKud5Mru/wWCydqg1mBgo1SZ/ml+BqM9wVPa9vb1VH82ZAJ2O58h49B9RX/u0kQucHBCntAOGwVQNLhYiT8wQ==",
+  "dgSpecHash": "tx7wS0GTSOKbymZHIkO/OwV8mZgxwpuatkIAsltLuYF8CUGGidlBqu32rzBzebtE2J16mLo/n3TW5LtmqLwI8g==",
   "success": true,
   "projectFilePath": "/Users/azhersaeed/Documents/YourProjectName/YourProjectName.csproj",
   "expectedPackageFiles": [
@@ -67,6 +67,7 @@
     "/Users/azhersaeed/.nuget/packages/runtime.ubuntu.14.04-x64.runtime.native.system.security.cryptography.openssl/4.3.0/runtime.ubuntu.14.04-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "/Users/azhersaeed/.nuget/packages/runtime.ubuntu.16.04-x64.runtime.native.system.security.cryptography.openssl/4.3.0/runtime.ubuntu.16.04-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "/Users/azhersaeed/.nuget/packages/runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl/4.3.0/runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
+    "/Users/azhersaeed/.nuget/packages/serilog/3.1.1/serilog.3.1.1.nupkg.sha512",
     "/Users/azhersaeed/.nuget/packages/stackexchange.redis.strongname/1.2.6/stackexchange.redis.strongname.1.2.6.nupkg.sha512",
     "/Users/azhersaeed/.nuget/packages/system.appcontext/4.3.0/system.appcontext.4.3.0.nupkg.sha512",
     "/Users/azhersaeed/.nuget/packages/system.buffers/4.3.0/system.buffers.4.3.0.nupkg.sha512",
